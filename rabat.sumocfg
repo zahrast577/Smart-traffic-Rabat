@@ -1,0 +1,15 @@
+<configuration>
+  <input>
+    <net-file value="rabat.net.xml"/>
+    <route-files value="rabat_cars.rou.xml,rabat_bus.rou.xml,rabat_motos.rou.xml"/>
+    <additional-files value="detectors.add.xml"/>
+  </input>
+  <time>
+    <begin value="0"/>
+    <end value="3600"/>
+    <step-length value="1"/>
+  </time>
+  <output>
+    <summary-output value="summary.xml"/>
+  </output>
+</configuration>

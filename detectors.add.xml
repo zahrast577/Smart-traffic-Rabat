@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<additionals>
+  <e1Detector id="cam_01" lane="611291478#0_0" pos="50" freq="60" file="cam_01.xml" friendlyPos="true"/>
+  <e1Detector id="cam_02" lane="1312477645_0" pos="50" freq="60" file="cam_02.xml" friendlyPos="true"/>
+  <e1Detector id="cam_03" lane="1312477646_0" pos="50" freq="60" file="cam_03.xml" friendlyPos="true"/>
+  <e1Detector id="cam_04" lane="1312477647_0" pos="50" freq="60" file="cam_04.xml" friendlyPos="true"/>
+  <e1Detector id="cam_05" lane="1312477648_0" pos="50" freq="60" file="cam_05.xml" friendlyPos="true"/>
+  <e1Detector id="cam_06" lane="1312477649_0" pos="50" freq="60" file="cam_06.xml" friendlyPos="true"/>
+  <e1Detector id="cam_07" lane="1382275612_0" pos="50" freq="60" file="cam_07.xml" friendlyPos="true"/>
+  <e1Detector id="cam_08" lane="35163135#0_0" pos="50" freq="60" file="cam_08.xml" friendlyPos="true"/>
+  <e1Detector id="cam_09" lane="409294303#1_0" pos="50" freq="60" file="cam_09.xml" friendlyPos="true"/>
+  <e1Detector id="cam_10" lane="611291479#0_0" pos="50" freq="60" file="cam_10.xml" friendlyPos="true"/>
+  <e1Detector id="cam_11" lane="611291479#1_0" pos="50" freq="60" file="cam_11.xml" friendlyPos="true"/>
+  <e1Detector id="cam_12" lane="70192790#0_0" pos="50" freq="60" file="cam_12.xml" friendlyPos="true"/>
+  <e1Detector id="cam_13" lane="70192790#1_0" pos="50" freq="60" file="cam_13.xml" friendlyPos="true"/>
+  <e1Detector id="cam_14" lane="70192790#2_0" pos="50" freq="60" file="cam_14.xml" friendlyPos="true"/>
+  <e1Detector id="cam_15" lane="70192790#3_0" pos="50" freq="60" file="cam_15.xml" friendlyPos="true"/>
+  <e1Detector id="cam_16" lane="172993765#0_0" pos="50" freq="60" file="cam_16.xml" friendlyPos="true"/>
+  <e1Detector id="cam_17" lane="172993765#1_0" pos="50" freq="60" file="cam_17.xml" friendlyPos="true"/>
+  <e1Detector id="cam_18" lane="172993766_0" pos="50" freq="60" file="cam_18.xml" friendlyPos="true"/>
+  <e1Detector id="cam_19" lane="241288331#0_0" pos="50" freq="60" file="cam_19.xml" friendlyPos="true"/>
+  <e1Detector id="cam_20" lane="241288331#2_0" pos="50" freq="60" file="cam_20.xml" friendlyPos="true"/>
+</additionals>

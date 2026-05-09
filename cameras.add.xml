@@ -1,0 +1,7 @@
+<additionals>
+  <e1Detector id="cam_01" lane="-1004345020#0_0" pos="50" freq="60" file="cam_01.xml" friendlyPos="true"/>
+  <e1Detector id="cam_02" lane="-1004345020#1_0" pos="50" freq="60" file="cam_02.xml" friendlyPos="true"/>
+  <e1Detector id="cam_03" lane="-1007280304#0_0" pos="50" freq="60" file="cam_03.xml" friendlyPos="true"/>
+  <e1Detector id="cam_04" lane="-1007280304#0_1" pos="50" freq="60" file="cam_04.xml" friendlyPos="true"/>
+  <e2Detector id="zone_01" lane="-1004856255#0_0" pos="0" length="200" freq="60" file="zone_01.xml" friendlyPos="true"/>
+</additionals>
