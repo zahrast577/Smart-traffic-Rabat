@@ -17,7 +17,7 @@ def query_db(sql, args=()):
 
 @app.route("/api/latest")
 def latest():
-    rows = query_db("SELECT time_s, camera, vehicles, speed_kmh, occupancy, congested FROM traffic_data ORDER BY id DESC LIMIT 120")
+    rows = query_db("SELECT time_s, camera, vehicles, speed_kmh, occupancy, congested FROM traffic_data ORDER BY time_s DESC LIMIT 120")
     return jsonify(rows)
 
 @app.route("/api/summary")
