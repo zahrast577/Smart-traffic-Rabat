@@ -16,7 +16,7 @@ de congestion, et affiche les résultats sur un dashboard web temps réel.
 - **Frontend** : HTML + CSS + Chart.js
 
 ## Fichiers principaux
-- `traffic_monitor.py` — collecte les données depuis SUMO
+- `mqtt_publisher.py` — collecte les données depuis SUMO
 - `database.py` — initialise et gère la base SQLite
 - `ml_model.py` — entraîne le modèle de prédiction
 - `app.py` — serveur Flask et dashboard web
